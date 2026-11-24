@@ -16,7 +16,7 @@ export const profile = {
   role: 'Software Developer',
   tagline: ['Software Developer', 'Java', 'Python', 'ML/AI'],
   intro:
-    'A final-year B.E. Information Technology student (CGPA 8.18) and Software Developer building AI-powered platforms and scalable web applications using Java, Spring Boot, Python, AI/ML, React, PostgreSQL.',
+    'A final-year B.E. Information Technology student (CGPA 8.50) and Software Developer building AI-powered platforms and scalable web applications using Java, Spring Boot, Python, AI/ML, React, PostgreSQL.',
   location: 'Nashik, Maharashtra',
   email: 'rohitdhondage110@gmail.com',
   links: {
@@ -237,7 +237,7 @@ export const achievements: Achievement[] = [
     title: 'B.E. Information Technology',
     org: "Pune Vidyarthi Griha's College of Engineering, Nashik",
     detail:
-      'Engineering student with CGPA 8.18 / 10 and 89% in Diploma in Computer Engineering.',
+      'Engineering student with CGPA 8.50 / 10 and 89% in Diploma in Computer Engineering.',
     laurel: 'Academic Achievement',
   },
   {
@@ -253,7 +253,7 @@ export const achievements: Achievement[] = [
     title: 'Tata Imagination Challenge',
     org: 'Tata Group • Unstop',
     detail:
-      'Certificate of Participation — Participated in the Tata Quiz of Tata Imagination Challenge 2026, organised by Tata Group via Unstop, representing PVGCOET Pune.',
+      'Certificate of Participation — Participated in the Tata Quiz of Tata Imagination Challenge 2026, organised by Tata Group via Unstop, representing PVGCOET Nashik.',
     laurel: 'Quiz Competition',
   },
 ];
@@ -482,8 +482,8 @@ export const seasons: Season[] = [
         code: 'S03 E01',
         title: 'The Engineer',
         description:
-          'Final-year B.E. Information Technology student with a CGPA of 8.18.',
-        tags: ['B.E.', 'Information Technology', 'CGPA 8.18'],
+          'Final-year B.E. Information Technology student with a CGPA of 8.50.',
+        tags: ['B.E.', 'Information Technology', 'CGPA 8.50'],
         runtime: '2024 – Present',
         palette: ocean,
       },
@@ -576,7 +576,7 @@ export const topPicks: TopPick[] = [
   { label: 'The AI Original', title: 'InterviewIQ Pro', detail: 'AI interview preparation • OpenAI API • Resume Parser (PDF)', palette: crimson },
   { label: 'E-Commerce Platform', title: 'VG Delivery', detail: 'Full-stack vegetable delivery • Razorpay API • Deployed live on Vercel', palette: jade },
   { label: 'Hackathon Award', title: 'Blockverse Winner', detail: 'Special Prize Winner • Blockverse Hackathon (GDG NASHIK)', palette: violet },
-  { label: 'Engineering Degree', title: 'B.E. in IT', detail: "PVG's College of Engineering, Nashik • CGPA 8.18 / 10", palette: ocean },
+  { label: 'Engineering Degree', title: 'B.E. in IT', detail: "PVG's College of Engineering, Nashik • CGPA 8.50 / 10", palette: ocean },
   { label: 'Diploma Merit', title: '89% Distinction', detail: 'Diploma in Computer Engineering • Matoshri College of Engineering', palette: jade },
   { label: 'Coding Problems', title: '180+ Solved', detail: 'LeetCode • Arrays, Strings, Dynamic Programming & Graphs', palette: crimson },
   { label: 'Backend Internship', title: 'SoftCrowd Tech', detail: 'Java Backend Intern • 15+ REST APIs • 30% query optimization', palette: ocean },
@@ -595,7 +595,7 @@ export const introSlides: IntroSlide[] = [
       "Pune Vidyarthi Griha's College of Engineering, Nashik",
       'Bachelor of Engineering · IT (2024 – 2027)',
     ],
-    chips: ['CGPA 8.18', '89% Diploma'],
+    chips: ['CGPA 8.50', '89% Diploma'],
   },
   {
     kicker: 'Skills',
