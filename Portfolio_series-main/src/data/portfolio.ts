@@ -240,6 +240,22 @@ export const achievements: Achievement[] = [
       'Engineering student with CGPA 8.18 / 10 and 89% in Diploma in Computer Engineering.',
     laurel: 'Academic Achievement',
   },
+  {
+    id: 'young-turks',
+    title: '99.92 Percentile',
+    org: 'Naukri Campus Young Turks 2026 • HCLTech',
+    detail:
+      "Certificate of Merit — Scored 99.92 percentile in Naukri Campus Young Turks 2026, India's largest skill contest, presented by HCLTech.",
+    laurel: 'Skill Contest',
+  },
+  {
+    id: 'tata-imagination',
+    title: 'Tata Imagination Challenge',
+    org: 'Tata Group • Unstop',
+    detail:
+      'Certificate of Participation — Participated in the Tata Quiz of Tata Imagination Challenge 2026, organised by Tata Group via Unstop, representing PVGCOET Pune.',
+    laurel: 'Quiz Competition',
+  },
 ];
 
 
